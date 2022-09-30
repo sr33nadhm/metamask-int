@@ -58,7 +58,7 @@ function NavBar() {
                                     borderRadius: 15,
                                     backgroundColor: "#50535a",
                                 }} startIcon={<FormatListBulletedIcon />}>
-                                    All Projects
+                                    Projects
                                 </Button>
                             </a>
                         </Tooltip>
