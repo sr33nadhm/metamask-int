@@ -98,7 +98,7 @@ function App() {
                 {data.Balance ? data.Balance + " ETH" : <Skeleton variant="text" sx={{ fontSize: "15px" }} />}
               </Typography>
               <Divider />
-              <Typography variant="body2" color="text.secondary" style={{ marginLeft: 8 }}>
+              <Typography variant="body2" color="text.secondary" className="card-desc">
                 Welcome! This is an example for metamask integration. A wallet like Metamask can be used to store and
                 retrieve your coins and tokens. It can even be used to sign a transaction. Give it a try! <br />
                 <br />

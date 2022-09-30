@@ -50,7 +50,7 @@ function NavBar() {
                     <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }} />
 
                     <Box sx={{ flexGrow: 0 }}>
-                        <Tooltip title="Download resume">
+                        <Tooltip title="Go back to portfolio">
                             <a href="https://sr33nadhm.github.io/" style={{ textDecoration: 'none' }}>
                                 All Projects
                             </a>
