@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/metamask-int/static/css/main.177c8cb6.css",
+    "main.js": "/metamask-int/static/js/main.3eefc401.js",
+    "index.html": "/metamask-int/index.html",
+    "main.177c8cb6.css.map": "/metamask-int/static/css/main.177c8cb6.css.map",
+    "main.3eefc401.js.map": "/metamask-int/static/js/main.3eefc401.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177c8cb6.css",
+    "static/js/main.3eefc401.js"
+  ]
+}
