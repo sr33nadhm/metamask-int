@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/metamask-int/static/css/main.c30c4e4d.css",
-    "main.js": "/metamask-int/static/js/main.4dcb14a3.js",
+    "main.js": "/metamask-int/static/js/main.f7de1b31.js",
     "index.html": "/metamask-int/index.html",
     "main.c30c4e4d.css.map": "/metamask-int/static/css/main.c30c4e4d.css.map",
-    "main.4dcb14a3.js.map": "/metamask-int/static/js/main.4dcb14a3.js.map"
+    "main.f7de1b31.js.map": "/metamask-int/static/js/main.f7de1b31.js.map"
   },
   "entrypoints": [
     "static/css/main.c30c4e4d.css",
-    "static/js/main.4dcb14a3.js"
+    "static/js/main.f7de1b31.js"
   ]
 }
