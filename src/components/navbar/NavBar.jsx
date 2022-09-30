@@ -4,6 +4,8 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Tooltip from '@mui/material/Tooltip';
+import { Button } from '@mui/material';
+import FormatListBulletedIcon from '@mui/icons-material/FormatListBulleted';
 
 function NavBar() {
     return (
@@ -52,7 +54,12 @@ function NavBar() {
                     <Box sx={{ flexGrow: 0 }}>
                         <Tooltip title="Go back to portfolio">
                             <a href="https://sr33nadhm.github.io/" style={{ textDecoration: 'none' }}>
-                                All Projects
+                                <Button variant="contained" style={{
+                                    borderRadius: 15,
+                                    backgroundColor: "#50535a",
+                                }} startIcon={<FormatListBulletedIcon />}>
+                                    All Projects
+                                </Button>
                             </a>
                         </Tooltip>
                     </Box>
