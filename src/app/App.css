@@ -35,6 +35,9 @@
     text-overflow: ellipsis;
     overflow: hidden;
   }
+  .card-box {
+    max-width: 90vw !important;
+  }
 }
 
 @media (min-width: 769px) {
